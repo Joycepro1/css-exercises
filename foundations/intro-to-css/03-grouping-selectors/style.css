@@ -3,3 +3,12 @@
   font-size: 28px;
   font-family: "Helvetica" "Times New Roman", sans-serif;
 }
+
+.buttonone {
+  background-color: #000000;
+  color: white;
+}
+
+.buttontwo {
+  background-color: rgb(255, 251, 15);
+}
